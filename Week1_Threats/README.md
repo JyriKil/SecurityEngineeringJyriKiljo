@@ -40,7 +40,7 @@ Have you been a victim of cyber crimes and do you think you could have prevented
 
 Please keep your answer concise, bullet points are acceptable, but remember to answer atleast all mentioned topics.
 
-I use password manager to store all my passwords. I also always use MFA when it's possible.
+Answer Task1: I use password manager to store all my passwords. I also always use MFA when it's possible.
 
 I have been a victim of a scam when I was a kid, my Steam account was stolen. I could've prevented this by being more careful and mindful of how to treat with unknown people in the internet. To this date I am not sure how much more careful I could be than I already am.
 
