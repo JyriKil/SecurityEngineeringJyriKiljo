@@ -70,6 +70,45 @@ These policies are to be kept quite straight-forward and easily understandable f
 You should also check [this](https://csrc.nist.rip/publications/nistpubs/800-12/800-12-html/chapter5.html) for detailed advice and explanation on for example types of policies. For example chapter 5.2.2 gives good insight on what basic components are good for issue-specific policies.
 You don't have to contain yourself to just text, you may include for example pictures and data-flow charts where beneficial.
 
+
+Answers; Password policy
+
+A password policy is a set of rules and regulations, which dictate how all employees should create and use their passwords. Password policies are a very important part of protecting organizations’ digital property from malicious intent. 
+
+Our password policy: 
+
+1. The length of the password should be at least 14 characters long.  
+
+2. The password should consist of upper- and lowercase letters, numbers, special characters and symbols. 
+
+3. The company will ban bad passwords to eliminate the risk of using them. This should include at least the following: already used passwords, leaked passwords, commonly used or otherwise expected passwords, dictionary words, repetitive characters. 
+
+4. The password has to be changed if it becomes compromised. Otherwise the password should be changed regularly. 
+
+5. The user has to have multiple unique new passwords for a long time before old passwords can be reused. 
+
+6. To gain access to a company account, a multi-factor authentication should be required. 
+
+7. The password cannot be the same password that you have used in some other application or account. 
+
+8. Passwords and accounts are personal, you cannot share them with your co-workers or spouses. 
+
+9. Failed login attempts will be monitored, and continious failed login attempts will place a cooldown before logging in can be tried again. 
+
+10. Accounts that are not used are to be suspended from use. 
+
+11. Employees are to use password managers to safely store their passwords. 
+
+If you have any questions about the new password policy, please contact your closest supervisor or security management. We will be happy to clarify any issues at hand. 
+
+ 
+
+Sources:  
+
+https://csrc.nist.rip/publications/nistpubs/800-12/800-12-html/chapter5.html 
+
+https://gibraltarsolutions.com/blog/password-policy/ 
+
 ---
 
 ### Task 3: Threat Modelling
