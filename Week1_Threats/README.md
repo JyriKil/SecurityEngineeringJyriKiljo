@@ -101,13 +101,40 @@ Our password policy:
 
 If you have any questions about the new password policy, please contact your closest supervisor or security management. We will be happy to clarify any issues at hand. 
 
- 
-
 Sources:  
 
 https://csrc.nist.rip/publications/nistpubs/800-12/800-12-html/chapter5.html 
 
-https://gibraltarsolutions.com/blog/password-policy/ 
+https://gibraltarsolutions.com/blog/password-policy/
+
+Answer; social media security policy
+
+Social media security policy: 
+
+ 
+
+Social media security refers to actions taken to protect personal information while using social media platforms. It is important to be careful about what you share online and also being aware of potential scams and hackers trying to access your accounts. 
+
+1. Do not share information about your personal life in too much detail, and do not share sensitive information in social media. Sharing this kind of information can compromise personal safety and cyber criminals can exploit this kind of information for phishing attempts or targeted scams. 
+
+ 
+
+2. You should take advantage of social media privacy settings, and make sure that only people you trust can see what you post. 
+
+ 
+
+3. Use strong passwords on your social media accounts. Follow good password management practices. 
+
+ 
+
+4. Do not share personal information on not well known or trusted platforms. 
+
+ 
+
+5. Use multi-factor authentication always when it’s possible. 
+
+ 
+ 
 
 ---
 
