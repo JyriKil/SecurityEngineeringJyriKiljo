@@ -53,6 +53,15 @@ You have probably seen the following kind of warning when browsing the internet:
 - How do browsers use certificates for ensuring browsing security?
     - What does the warning in the picture above mean?
 
+Answers:
+    - Digital certificates are used to prove authenticity of servers, devices etc. ensuring that only trusted devices can connect to the network, they are also used to confirm the authenticity of websites and browsers. In general sense, they are used to improve the security of information exchange in the internet.
+        - Certificates are important for online payments and banking security, because digital certificates are used to in encrypting the communication between the browser and the server which is being used. This conceals the users login credentials and other account details, or possible transactions.
+        - Digital certificates are used to create HTTPS connections, to protect information that might occur let's say, during online shopping, stock trading or gaming. They are also commonly used to secure e-mail communication.
+    -TLS mitigates session attacks, such as cookie and session attacks. TLS also mitigates replay attacks, IP spoofing.
+        - TLS encrypts the user data, so it's crucial in online banking.
+    - The browser checks if it trusts the SSL certificate, if it does, it sends a signal to the webserver, and the server returns an acknowledgement to start encrypting the data shared between the browser and the webserver in the session, and the usage of the website can continue.
+        -The warning above means, that the browser cannot determine if the website has safe encryption protocols or not.
+
 **Certificate Authorities**
 
 Read the following entries on Certificate Authorities and Certificate Transparency and answer questions:
@@ -66,6 +75,10 @@ https://www.ecb.europa.eu/pub/pubbydate/html/index.en.html
 
 - Why would it be bad if a trusted certificate authority was compromised?
 - Why is certificate transparency important?
+
+Answers:
+    - It would be bad if a trusted certificate authority was compromised, because it could potentially put all entities relying to that CA in jeopardy. Forged certificates may allow attackers to perform MiTM attacks on users.
+    - Certificate transparency strengthens the reliability and effectiveness of encrypted connections, thus helping in preventing attacks such as website spoofing, server impersonation and MiTM attacks.
 
 ---
 
