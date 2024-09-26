@@ -139,6 +139,45 @@ along with employing technologies such as:
 
 Please provide a brief explanation of each mentioned safeguarding method and cite any known use cases for each.
 
+
+Task 3 Answers: 
+
+ 
+
+Intellectual property: IP refers to creations of the mind, inventions, art, literature, designs, symbols, names or images that are used to commerce. IPs are protected by law. Patents, copyrights and trademarks are types of IPs. Use case: Apple holds IP rights over the designs and technology of iPhones and their OS. 
+
+ 
+
+Copyright: Copyright is a type of IP. It includes literary, music, artistic works, movies etc. It protects the creators by giving them exclusive rights to reproduction, distribution and display of their work. Use case: Movies, music, books etc. Are protected by copyright laws to prevent unauthorized copying or distribution. 
+
+ 
+
+Patent: A patent gives exclusive rights to an inventor to make and sell their invention for a set period of time. Use case: Telephone was patented by Alexander Grahm Bell in 1876. 
+
+ 
+
+Trademark: Trademarks legally protect symbols, logos, names and catch phrases that are used to identify and separate products and services from their competitors. Use case: Coca-cola's name and logo are trademarked to prevent competitors from using similar branding and marketing. 
+
+ 
+
+Non-Disclosure Agreements (NDAs): Legally enforceable contract between a person who will share sensitive information, and a person who will receive this information. Use case: Startup companies use NDAs with new employees to protect their product development from leaking to possible competitors. 
+
+ 
+
+Watermarks: Watermarks are symbols or patterns hidden in digital or printed media to mark ownership or protect content from unauthorized use. Use case: A photographer can watermark pictures they’ve taken and share them online. 
+
+ 
+
+Software licenses: A software license is a legal instrument that governs the possible redistribution and use of software. Use case: Microsoft Windows is distributed under software license, preventing it from being modified without permission. 
+
+ 
+
+Digital rights management (DRM): Technology used to control the access and usage of digital content. Use case: Streaming services use DRM to prevent users from downloading and redistributing their content. 
+
+ 
+
+Software protection dongles: Electronic copy protection and content protection device. Use case: Used to prevent piracy and enforce that only users with legitimate licenses can use the software. 
+
 ### Task3B: Freedom of Information
 
 Other side of the coin, information wants to be free. Pick 2 safeguarding methods from previous part and Investigate and present real-world instances where the aforementioned safeguarding methods were bypassed, highlighting entities involved and the rationale behind their actions. Additionally, report on how they justify these circumventions. Answer in 400-500 word essay.
