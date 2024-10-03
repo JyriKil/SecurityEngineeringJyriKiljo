@@ -61,6 +61,30 @@ Source: https://www.cloudflare.com/learning/security/threats/meltdown-spectre/
 
  
 
+
+
+
+---
+
+### Task 2: Slow Loris
+
+**HOX! Consider Slow Loris as a type of attack rather than the 'slowloris' program itself**
+
+Seek information about the Slowloris Denial-of-Service attack and answer to the following questions:
+
+- How does it work?
+
+- Why is it unique while compared to the other high bandwith DDoS attacks?
+
+- What are the effects of the attack?
+
+- How can you mitigate/prevent the effects of the attack?
+
+- Are there any notable instances of this style of attack being performed?
+
+This time, You are not expected to produce an essay. Direct answers to questions above are sufficient. List sources and keep the answer concise at max 300 words not including sources
+
+
 Task 2 Answers:  
 
  
@@ -106,28 +130,6 @@ Sources:
 https://www.cloudflare.com/learning/ddos/ddos-attack-tools/slowloris/ 
 
 https://en.wikipedia.org/wiki/Slowloris_(cyber_attack) 
-
-
-
----
-
-### Task 2: Slow Loris
-
-**HOX! Consider Slow Loris as a type of attack rather than the 'slowloris' program itself**
-
-Seek information about the Slowloris Denial-of-Service attack and answer to the following questions:
-
-- How does it work?
-
-- Why is it unique while compared to the other high bandwith DDoS attacks?
-
-- What are the effects of the attack?
-
-- How can you mitigate/prevent the effects of the attack?
-
-- Are there any notable instances of this style of attack being performed?
-
-This time, You are not expected to produce an essay. Direct answers to questions above are sufficient. List sources and keep the answer concise at max 300 words not including sources
 
 ---
 
