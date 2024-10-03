@@ -28,6 +28,87 @@ Choose an example of a side-channel attack and explain the following information
 
 This time, You are not expected to produce an essay. Direct answers to questions above are sufficient. List sources and keep the answer concise at max 300 words not including sources.
 
+
+Task 1 Answers: 
+
+ 
+
+Chosen attack: timing side-channel attack 
+
+ 
+
+Timing side-channel attack uses timing to its advantage. A timing attack follows data movement and analyzes how much time it takes to execute cryptographic algorithms, and uses this knowledge to crack the key. 
+
+ 
+
+Timing attack can affect at least the following systems; Cryptographic system, CPU system, algorithms, countermeasure systems. 
+
+ 
+
+The timing and duration of executing cryptographic algorithms is leaked. 
+
+ 
+
+In 2017 there was a Meltdown attack that was aimed at CPU manufacturers. It used timing side-channel attack. 
+
+ 
+
+According to my findings, the Meltdown vulnerability was patched by separating kernel memory from user processes. This was achieved via a method called Kernel Page Table Isolation. 
+
+ 
+
+Source: https://www.cloudflare.com/learning/security/threats/meltdown-spectre/ 
+
+ 
+
+Task 2 Answers:  
+
+ 
+
+Slow Loris attack utilizes partial HTTP requests. It opens connections to a target web server and continues to keep those connections open as long as it can. Slow Loris is a DDoS attack. 
+
+ 
+
+Slow Loris attack is unique, because it allows a single machine to take down a server, and it has a really low bandwidth consumption, unlike most of the DDoS attacks. 
+
+ 
+
+Slow Loris attack is a type of DDoS attack, so its effects are similar to other DDoS attacks. This includes denial of service for legitimate users, overwhelmed server on the victim’s side, possible website downtime, depending on the site that it’s used against, a DDoS attack can cause financial loss. 
+
+ 
+
+You can mitigate the damage caused by Slow Loris attack, but I don’t think there is any way to completely prevent it from happening.  
+
+ 
+
+ 
+
+You can mitigate the effects of DDoS attack by increasing server availability ---> increase the possible number of clients the server can allow, this makes it harder for the attacker to fill the connections to make the DDoS happen. 
+
+ 
+
+You can restrict the access based of certain factors to mitigate the risk of Slow Loris attack. You can limit the maximum amount of connections that can be made from one IP address, this limits the effectiveness of Slow Loris attack. 
+
+ 
+
+You can apply a reverse proxy server. A proxy server is a server that protects the main server by intercepting requests made to the main server, and communicates with the web servers on behalf of the main server. This prevents the attack from reaching the original target. 
+
+ 
+
+One notable example of Slow Loris attack is from 2009, when Slow Loris was used to disturb the Iranian presidential election. The attackers used Slow Loris to jam a number of Iranian governmental websites. 
+
+ 
+
+ 
+
+Sources:  
+
+https://www.cloudflare.com/learning/ddos/ddos-attack-tools/slowloris/ 
+
+https://en.wikipedia.org/wiki/Slowloris_(cyber_attack) 
+
+
+
 ---
 
 ### Task 2: Slow Loris
