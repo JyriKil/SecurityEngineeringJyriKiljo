@@ -28,6 +28,85 @@ Following link containing NIST:s [security recommendations for workplace bring y
 - Protecting enterprise data from being
 inadvertently backed up to a cloud service
 
+
+Week 5 
+
+ 
+
+Task 1 Answers: 
+
+ 
+
+Intrusive application practices: Intrusive applications employ deceptive tactics to lure users into downloading them. The lure is often rewards or special features. After installation the applications prompts users to grant permissions for accessing sensitive data. 
+
+ 
+
+Account credential theft through phishing: The act of obtaining user credentials through deceptive means by scamming. Common means to do this often includes posing as a trusted entity . Attackers use the credentials to gain unauthorized access and might use them in further attacks. 
+
+ 
+
+Outdated phones: Smartphone manufacturers tend to not keep their older phones OS up to date, which means at some point their security won’t be patched and leaves the old phones vulnerable for known bugs and vulnerabilities, even when the newer phones won’t be vulnerable for same exploitations. 
+
+ 
+
+Sensitive data transmissions: When sensitive data is leaked through bad security measures such as bad encryption etc. And an unauthorized party gets access to sensitive data.  
+
+ 
+
+Brute-force attacks to unlock a phone: Brute-force is a trial and error technique for guessing unknown information like login credentials by trying different compositions one by one. 
+
+ 
+
+Application credential storage vulnerability: Result of developers failure to use correct and essential protections to secure the data containing credentials. Examples: Failure to encrypt credential data, or store credentials in an easily accessible file. 
+
+ 
+
+Unmanaged device protection: Employees personally owned devices that they set up and use. Since they are unmanaged and in personal use, there is a risk of absent security measures, which makes unmanaged devices vulnerable to attacks. 
+
+ 
+
+Lost or stolen data protection: Pretty straightforward, losing or stolen data from you means someone might get access to your personal information without permission, for example payment card, passport or any other identity license, social security number etc. 
+
+ 
+
+Protecting enterprise data from being inadvertently backed up to a cloud service: Safeguarding sensitive business data from accidentally being stored or uploaded to cloud-based backup systems without any authorization. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+https://blog.pradeo.com/the-suspect-list-part-2-intrusive-applications 
+
+https://www.descope.com/learn/post/credential-phishing 
+
+https://www.cnet.com/tech/mobile/is-that-old-used-refurbished-android-phone-safe-use-what-you-should-know-security/ 
+
+https://escape.tech/blog/sensitive-data-exposure/ 
+
+https://belkasoft.com/unlocking-ios-devices-with-brute-force 
+
+https://www.veracode.com/security/credentials-management 
+
+https://learn.microsoft.com/en-us/microsoft-365/business-premium/m365bp-managed-unmanaged-devices?view=o365-worldwide&tabs=Unmanaged 
+
+https://tietosuoja.fi/en/have-you-misplaced-personal-data 
+
 ---
 
 ### Task2: attacks on CPU execution
