@@ -114,6 +114,23 @@ spectre and meltdown are two original side channel attacks discovered in 2017 th
 
 Answer in max 300 words. You are free to use tables or otherwise make to comparison easier to read if you wish.
 
+
+Retbleed (2022): Retbleed targets return instructions in speculative execution, which enables attackers to infer sensitive data by poisoning the return predictions. It impacts Intel CPUs (6th-8th gen) and AMD CPUs (Zen 1 and Zen 2). The attack exploits speculative execution similar to Spectre. Mitigations involve disabling certain speculative execution features, leading to performance hits (up to 39% in Intel and 14% in AMD). This vulnerability is mitigated by microcode updates and operating system patches. 
+
+ 
+
+Downfall (2023): Downfall (Gather Data Sampling) affects Intel processors from Skylake to Ice Lake generations. It exploits weaknesses in speculative execution to leak sensitive data like encryption keys and passwords via the AVX (Advanced Vector Extensions) instruction set. This vulnerability can be mitigated with microcode updates, but they significantly reduce performance, especially in applications that heavily use AVX (up to 39% slowdown on Intel CPUs). ARM and AMD processors are unaffected by this vulnerability. 
+
+ 
+
+Inception (2023): Inception targets AMD’s speculative execution in the Zen architecture (Zen 1 to Zen 4). By manipulating branch predictors, the attacker can force incorrect speculative execution paths, allowing data leakage. Mitigation includes microcode updates from AMD, although the company considers the practical threat low. Unlike Downfall, Inception doesn’t heavily degrade system performance when mitigated. 
+
+
+
+These attacks vary in their methods (return instruction manipulation, AVX instructions, branch predictor manipulation) and target different CPU architectures, but all leverage speculative execution. Mitigations primarily involve microcode updates and disabling speculative features, often at the cost of performance. 
+
+
+
 ---
 
 ### Task3: Securing OS
